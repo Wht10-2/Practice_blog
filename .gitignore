@@ -5,3 +5,4 @@ django-env
 db.sqlite3
 /static
 .DS_Store
+.informations.txt

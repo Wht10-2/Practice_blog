@@ -1,6 +1,10 @@
 superuser : admin / admin9876
 
 
+
+--------------------------------------------------------------------
+
+
 Microsoft Windows [Version 10.0.18362.900]
 (c) 2019 Microsoft Corporation. All rights reserved.
 
@@ -55,6 +59,32 @@ Other
 
 
 D:\PlayData_DataAnalysis\Day41(72_113)_2020.07.01(Wed.)\Middle_Project\Practice>
+
+
+--------------------------------------------------------------------
+
+
+https://github.com/Wht10-2/Practice_blog.git
+
+
+--------------------------------------------------------------------
+
+
+
+https://www.pythonanywhere.com/user/MinElStory/
+superuser : admin2 / admin29876
+
+--------------------------------------------------------------------
+
+
+/home/MinElStory/Practice_blog/myvenv/
+
+
+--------------------------------------------------------------------
+
+Release
+http://minelstory.pythonanywhere.com/
+
 
 
 
